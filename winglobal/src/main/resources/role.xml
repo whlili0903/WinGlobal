@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Roles>
+	<!-- 普通会员角色 -->
+	<MembRole id="RL01">
+		<Role>
+			<name>ddviplinux</name>
+			<url>m</url>
+		</Role>
+	</MembRole>
+
+	<!-- 经纪人角色 -->
+	<MembAddlRole id="RL02">
+		<Role>
+			<name>添加土地</name>
+			<url>/land/add-init</url>
+		</Role>
+	</MembAddlRole>
+	
+</Roles>
